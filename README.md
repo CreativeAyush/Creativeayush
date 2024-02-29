@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)]
+![MasterHead](https://www.google.com/search?q=images+for+developer+gif&tbm=isch&ved=2ahUKEwi4r9zuktGEAxV3nWMGHUv5C8EQ2-cCegQIABAA&oq=images+for+developer+gif&gs_lp=EgNpbWciGGltYWdlcyBmb3IgZGV2ZWxvcGVyIGdpZkjcDFDVCljVCnAAeACQAQCYAYMBoAH7AaoBAzAuMrgBA8gBAPgBAYoCC2d3cy13aXotaW1niAYB&sclient=img&ei=qcjgZfi2Cfe6juMPy_KviAw&bih=679&biw=1366&rlz=1C1CHBD_enIN1003IN1003#imgrc=_iH1rMAl-S8zhM)]
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
