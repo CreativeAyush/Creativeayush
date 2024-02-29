@@ -1,9 +1,9 @@
-![MasterHead](https://www.google.com/search?q=images+for+developer+gif&tbm=isch&ved=2ahUKEwi4r9zuktGEAxV3nWMGHUv5C8EQ2-cCegQIABAA&oq=images+for+developer+gif&gs_lp=EgNpbWciGGltYWdlcyBmb3IgZGV2ZWxvcGVyIGdpZkjcDFDVCljVCnAAeACQAQCYAYMBoAH7AaoBAzAuMrgBA8gBAPgBAYoCC2d3cy13aXotaW1niAYB&sclient=img&ei=qcjgZfi2Cfe6juMPy_KviAw&bih=679&biw=1366&rlz=1C1CHBD_enIN1003IN1003#imgrc=_iH1rMAl-S8zhM)]
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw11w-iIwfrcp6eAcOZf3E9k&ust=1709316657207000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjIkvOS0YQDFQAAAAAdAAAAABAQ)]
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://in.pinterest.com/pin/204702745549241158/" alt="creativeayush" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw11w-iIwfrcp6eAcOZf3E9k&ust=1709316657207000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjIkvOS0YQDFQAAAAAdAAAAABAQ" alt="creativeayush" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=creativeayush" alt="creativeayush" /></a> </p>
 
