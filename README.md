@@ -1,6 +1,6 @@
 ![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw11w-iIwfrcp6eAcOZf3E9k&ust=1709316657207000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjIkvOS0YQDFQAAAAAdAAAAABAQ)]
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw11w-iIwfrcp6eAcOZf3E9k&ust=1709316657207000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjIkvOS0YQDFQAAAAAdAAAAABAQ" alt="creativeayush" /> </p>
