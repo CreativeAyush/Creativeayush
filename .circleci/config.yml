@@ -1,8 +1,23 @@
+version: 2.1
+
 jobs:
-  build:
+  run_js_file:
     docker:
-      - image: cimg/node:23.10.0
+      - image: cimg/node:23.10.0 # Use any Docker image, this can be Node.js or other
     steps:
-      - checkout
-      - run: npm install 
-      - run: node one.js
+      - checkout  # Checkout the code from your repository
+      - run:
+          name: Install Node.js
+          command: |
+            curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+            sudo apt-get install -y nodejs
+      - run:
+          name: Run JavaScript file
+          command: |
+            node one.js # Replace with the actual path to your JS file
+
+workflows:
+  version: 2
+  build_and_run_js:
+    jobs:
+      - run_js_file
