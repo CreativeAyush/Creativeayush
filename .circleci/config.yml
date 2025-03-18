@@ -6,11 +6,11 @@ jobs:
       - image: cimg/node:23.10.0 # Use any Docker image, this can be Node.js or other
     steps:
       - checkout  # Checkout the code from your repository
-      - run:
-          name: Install Node.js
-          command: |
-            curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
-            sudo apt-get install -y nodejs
+      # - run:
+      #     name: Install Node.js
+      #     command: |
+      #       curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+      #       sudo apt-get install -y nodejs
       - run:
           name: Run JavaScript file
           command: |
