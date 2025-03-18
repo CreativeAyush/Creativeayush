@@ -4,4 +4,5 @@ jobs:
       - image: cimg/node:23.10.0
     steps:
       - checkout
-      - run: node --version
+      - run: npm install 
+      - run: node one.js
